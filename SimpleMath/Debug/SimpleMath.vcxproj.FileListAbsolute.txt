@@ -1,0 +1,2 @@
+D:\sarvagya\Win32Projects\SimpleMath\Debug\SimpleMath.exe
+D:\sarvagya\Win32Projects\SimpleMath\Debug\SimpleMath.pdb

@@ -1,0 +1,2 @@
+D:\sarvagya\Win32Projects\VariablesAndDataTypes\Debug\VariablesAndDataTypes.exe
+D:\sarvagya\Win32Projects\VariablesAndDataTypes\Debug\VariablesAndDataTypes.pdb

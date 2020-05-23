@@ -1,0 +1,2 @@
+D:\sarvagya\Win32Projects\SystemDirectory\Debug\SystemDirectory.exe
+D:\sarvagya\Win32Projects\SystemDirectory\Debug\SystemDirectory.pdb

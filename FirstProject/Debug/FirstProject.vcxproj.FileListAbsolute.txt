@@ -1,0 +1,2 @@
+D:\sarvagya\Win32Projects\FirstProject\Debug\FirstProject.exe
+D:\sarvagya\Win32Projects\FirstProject\Debug\FirstProject.pdb

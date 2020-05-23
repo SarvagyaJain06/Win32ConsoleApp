@@ -1,0 +1,2 @@
+D:\sarvagya\Win32Projects\EscapeSequences\Debug\EscapeSequences.exe
+D:\sarvagya\Win32Projects\EscapeSequences\Debug\EscapeSequences.pdb

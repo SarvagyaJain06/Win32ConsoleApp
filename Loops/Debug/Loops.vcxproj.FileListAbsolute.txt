@@ -1,0 +1,2 @@
+D:\sarvagya\Win32Projects\Loops\Debug\Loops.exe
+D:\sarvagya\Win32Projects\Loops\Debug\Loops.pdb

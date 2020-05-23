@@ -1,0 +1,2 @@
+D:\sarvagya\Win32Projects\GetLine\Debug\GetLine.exe
+D:\sarvagya\Win32Projects\GetLine\Debug\GetLine.pdb
